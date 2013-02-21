@@ -31,9 +31,8 @@
 	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
 	  fjs.parentNode.insertBefore(js, fjs);
 	}(document, 'script', 'facebook-jssdk'));</script>
-	<div id="wrap">
 	<header id="header">
-		<div class="navbar navbar-fixed-top">
+		<div class="navbar navbar-fixed-top navbar-inverse">
 			<div class="navbar-inner">
 				<div class="container">
 				  <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -56,4 +55,5 @@
 			</div>
 		</div>
 	</header>
-	<div class="container">
+	<div id="wrap">
+		<div class="container-fluid">

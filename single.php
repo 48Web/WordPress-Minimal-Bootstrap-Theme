@@ -3,7 +3,7 @@
     get_header(); 
 ?>
 
-<div class="row">
+<div class="row-fluid">
     <div class="span12">
     <?php if (have_posts()): while (have_posts()): the_post(); ?>
         <div class="post">

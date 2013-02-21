@@ -1,7 +1,7 @@
 /* --[ Layout ]-- */
 body { padding-top: 60px; }
 
-#container { width: 600px; }
+#wrap { width: 600px; margin: 0 auto; }
 
 /* --[ COMMENTS]-- */
 /* facebook comments */
