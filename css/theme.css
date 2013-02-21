@@ -8,6 +8,8 @@ body { padding-top: 60px; }
 	#wrap { max-width: 600px; }
 }
 
+#footer { text-align: center; color: #666; font-size: 11px; border-top: 1px solid #ccc; margin-top: 20px; padding-top: 20px; }
+
 /* --[ COMMENTS]-- */
 /* facebook comments */
 .fb-comments, .fb-comments iframe[style], .fb-like-box, .fb-like-box iframe[style] {width: 100% !important;}
